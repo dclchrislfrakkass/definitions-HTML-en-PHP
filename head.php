@@ -8,29 +8,7 @@
 </head>
 
 <header>
-    <!--maj by sicca--><!--review by chris --><!--re-review by sicca-->
-    <h1 id="navigation"><a href="index.html" target="_self">Accueil </a></h1>
-    <ul id="navigation">
-        <li><a href="body.html" target="_self">BODY</a></li>
-        <li><a href="title.html" target="_self">TITLE</a></li>
-        <li><a href="embed.html" target="_self">B, I, U, PRE</a></li>
-        <li><a href="dot.html" target="_self">P, UL, LI, BR, HR</a></li>
-        <li><a href="table.html" target="_self">TABLE TD TR</a></li>
-        <li><a href="img.html" target="_self">IMG</a></li>
-        <li><a href="html.html" target="_self">HTML</a></li>
-        <li><a href="links.html" target="_self">A</a></li>
-        <li> <a href="h.html" target="_self">H1,H2,H3,...</a></li>
-        <li><a href="com.html" target="_self">!…</a></li>
-        <li><a href="form.html" target="_self">FORM</a></li>
-        <li><a href="input.html" target="_self">INPUT</a></li>
-        <li><a href="textarea.html" target="_self">TEXTAREA</a></li>
-        <li><a href="select.html" target="_self">SELECT</a></li>
-        <li><a href="meta.html" target="_self">META</a></li>
-        <li id="en-cours"><a href="head.html" target="_self">HEAD</a></li>
-        <li><a href="link.html" target="_self">LINK</a></li>
-        <li><a href="div.html" target="_self">DIV</a></li>
-        <li><a href="footer.html" target="_self">FOOTER</a></li>
-    </ul>   
+<?php include('header.php'); ?>
 </header>
 
 <body>
