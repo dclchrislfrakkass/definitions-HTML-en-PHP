@@ -8,7 +8,7 @@
 </head>
 
 <header>
-<?php include('header.html'); ?>
+<?php include('header.php'); ?>
 </header>
 
 
@@ -48,6 +48,6 @@
 </body>
 
 <footer>
-<?php include('footer_.html'); ?>
+<?php include('footer_.php'); ?>
 </footer>
 </html>

@@ -9,7 +9,7 @@
 </head>
 
 <header>
-<?php include('header.html'); ?>
+<?php include('header.php'); ?>
 </header>
 
 <body>
@@ -32,8 +32,9 @@
 </article>
 </section>
 
-<footer>
-<?php include('footer_.html'); ?>
-</footer>
 </body>
+
+<footer>
+<?php include('footer_.php'); ?>
+</footer>
 </html>
