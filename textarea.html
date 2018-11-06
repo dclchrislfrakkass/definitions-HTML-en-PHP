@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/style.css">
+     <title>Définitions des Balises html</title>
+
+</head>
+
+<header>
+    <!--maj by sicca--><!--review by chris --><!--re-review by sicca-->
+    <h1 id="navigation"><a href="index.html" target="_self">Accueil </a></h1>
+    <ul id="navigation">
+        <li><a href="body.html" target="_self">BODY</a></li>
+        <li><a href="title.html" target="_self">TITLE</a></li>
+        <li><a href="embed.html" target="_self">B, I, U, PRE</a></li>
+        <li><a href="dot.html" target="_self">P, UL, LI, BR, HR</a></li>
+        <li><a href="table.html" target="_self">TABLE TD TR</a></li>
+        <li><a href="img.html" target="_self">IMG</a></li>
+        <li><a href="html.html" target="_self">HTML</a></li>
+        <li><a href="links.html" target="_self">A</a></li>
+        <li> <a href="h.html" target="_self">H1,H2,H3,...</a></li>
+        <li><a href="com.html" target="_self">!…</a></li>
+        <li><a href="form.html" target="_self">FORM</a></li>
+        <li><a href="input.html" target="_self">INPUT</a></li>
+        <li id="en-cours"><a href="textarea.html" target="_self">TEXTAREA</a></li>
+        <li><a href="select.html" target="_self">SELECT</a></li>
+        <li><a href="meta.html" target="_self">META</a></li>
+        <li><a href="head.html" target="_self">HEAD</a></li>
+        <li><a href="link.html" target="_self">LINK</a></li>
+        <li><a href="div.html" target="_self">DIV</a></li>
+        <li><a href="footer.html" target="_self">FOOTER</a></li>
+    </ul>   
+</header>
+
+<body>
+    <section>
+            <article class="definition">
+        <h1>TEXTAREA</h1>
+<h1><em>Définition:</em></h1>
+<p>
+<em>La balise <strong>TEXTAREA</strong> définie une zone d'entrée de texte sur plusieurs lignes.</em><br>
+<em>La zone de texte peut contenir un nombre illimité de charactères et le texte est affiché dans une police définie (<strong>Courier</strong>par défaut)</em></p><br>
+<em>La taille de la zone de texte peut être spécifiée par les attributs de colonnes et de lignes, ou d'une meilleure façon à travaers le CSS.</em>
+
+
+</p>    
+            </article>
+
+            <article class="exemple">
+<h1><em>Exemple:</em></h1>
+    <em><xmp><textarea rows="4" cols="50">
+        At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
+        </textarea></xmp></em>
+
+            </article>
+    </section>
+</body>
+
+
+<footer>
+        <!---table by chris-->
+        <table>
+            <tr>
+                <th>Créer par</th>
+                <th>Sources</th>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/dclsifufrancis" target="_blank">dclSifuFrancis</a>,<a href="https://github.com/dcl-sicca" target="_blank"> dclSicca</a>,<a href="https://github.com/dclchrislfrakkass" target="_blank"> dclChrisFrakkass</a>. <br><br>
+                    <img src="./images/logo _Sifu_Francis_256.png" alt="dclfrancis"/><img src="./images/avatar_sicca_256.png" alt="dclsicca"/><img src="./images/logo256.png" alt="dclfrakkass"/></td>
+                <td><a href="https://www.w3schools.com/" target="_blank">W3 School</a> 
+                    <br> 
+                    <a href="https://fr.wikipedia.org" target="_blank"> wikipédia</a>.</td>
+            </tr>
+        </table>
+    
+    
+    <!---   old by chris 
+     Créer par <a href="https://github.com/dclsifufrancis" target="_blank">dclSifuFrancis</a>,<a href="https://github.com/dcl-sicca" target="_blank"> dclSicca</a>,<a href="https://github.com/dclchrislfrakkass" target="_blank"> dclChrisFrakkass</a>. <br><br>
+    <img src="./images/logo _Sifu_Francis_256.png" alt="dclfrancis"/><img src="./images/avatar_sicca_256.png" alt="dclsicca"/><img src="./images/logo256.png" alt="dclfrakkass"/>
+    <article>sources: <a href="https://www.w3schools.com/" target="_blank">W3 School</a> et <a href="https://fr.wikipedia.org" target="_blank"> wikipédia</a>.</article>
+    
+    ---->
+    </footer>
+</html>
