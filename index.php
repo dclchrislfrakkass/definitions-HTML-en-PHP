@@ -9,15 +9,15 @@
 </head>
 
 <header>
-<?php include('header.html'); ?>
+<?php include('header.php'); ?>
 </header>
 <body>
 
-<?php include('body_.html'); ?>
+<?php include('body_.php'); ?>
 </body>
 <!--ajouté par Chris-->
 
 <footer>
-<?php include('footer_.html'); ?>
+<?php include('footer_.php'); ?>
 </footer>
 </html>
